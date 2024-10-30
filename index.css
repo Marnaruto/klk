@@ -1,0 +1,61 @@
+.arriba {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 150px;
+    background-color: #ffcc00;
+}
+
+.arribaizquierda {
+           position: absolute;
+    left: 0;
+    top: 180px;
+    width: 600px;
+    height: 700px;
+    background-color: gray;
+}
+
+.arribaderecha {
+    position: absolute;
+    right: 0;
+    top: 180px;
+    width: 910px;
+    height: 700px;
+    background-color: blue;
+}
+
+.arriba1 {
+    position: absolute;
+    top: 25px;
+    left: 15px;
+    width: 880px;
+    height: 280px;
+    background-color: cyan;
+}
+.abajo1 {
+    position: absolute;
+    top: 340px;
+    left: 15px;
+    width: 880px;
+    height: 330px;
+    background-color: cyan;
+}
+
+.abajo {
+    position: absolute;
+    top: 900px;
+    left: 0;
+    right: 0;
+    height: 500px;
+    background-color: #cf3e3e;
+}
+
+.abajoabajo {
+    position: absolute;
+    top: 1420px;
+    left: 0;
+    right: 0;
+    
+    height: 330px;
+    background-color: rgb(7, 73, 195);
+}
